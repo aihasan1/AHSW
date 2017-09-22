@@ -1,0 +1,81 @@
+
+
+/* This CSS styling portion is for editing the p tag and turning the text red*/
+
+h1 {
+  color: bisque;
+  font-family: sans-serif;
+}
+
+body {
+  background-image: url("resources/green.jpg");
+  background-color: #428000;
+  text-decoration-color: orange;
+  background-position: center;
+  background-size: auto;
+}
+
+P {
+  color: bisque;
+  font-family: 'Indie Flower', arial;
+  font-size: 25px;
+}
+
+p2 {
+  color: black;
+  font-size: 2em;
+}
+
+div p {
+  color: blue;
+  font-size: 10px;
+}
+
+.class_test {
+  background-color: dodgerblue;
+  color: yellow;
+  font-size: 30px;
+  border-radius: 10px;
+}
+
+
+#id_test {
+  color: green;
+  font-size: 30px;
+}
+
+/* Pseude Class Selectors */
+
+.hover_test:hover {
+  font-size: 50px;
+  text-decoration: none;
+}
+
+a {
+  text-: none;
+  font-size: 30px;
+}
+
+a:visited {
+  color: purple;
+}
+
+ul {
+  color: black;
+  font-size: 20px;
+}
+
+div {
+  height: 50px;
+  width: 100px;
+  border: 2px solid black;
+  display: inline-block;
+}
+
+#one {
+  background-color: cadetblue;
+}
+
+#two {
+  background-color: green;
+}
